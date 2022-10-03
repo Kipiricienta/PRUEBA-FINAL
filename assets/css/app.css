@@ -1,0 +1,16 @@
+.html {
+ scroll-behavior: smooth;
+}
+body {
+    background-color: black;
+    color: white;
+    font-family: "Roboto", sans-serif;
+}
+.section-destacados img {
+    height: 120px;
+    object-fit: cover;
+}
+.footer-wrap {
+    display: flex;
+    justify-content: space-around;
+  }
